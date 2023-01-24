@@ -1,0 +1,15 @@
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.csproj.AssemblyReference.cache
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.AssemblyInfoInputs.cache
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.AssemblyInfo.cs
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.csproj.CoreCompileInputs.cache
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\bin\Debug\net7.0\jogoDeXadrez.exe
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\bin\Debug\net7.0\jogoDeXadrez.deps.json
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\bin\Debug\net7.0\jogoDeXadrez.runtimeconfig.json
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\bin\Debug\net7.0\jogoDeXadrez.dll
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\bin\Debug\net7.0\jogoDeXadrez.pdb
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.dll
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\refint\jogoDeXadrez.dll
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.pdb
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\jogoDeXadrez.genruntimeconfig.cache
+D:\jogoXadrez\jogoDeXadrez\jogoDeXadrez\obj\Debug\net7.0\ref\jogoDeXadrez.dll
